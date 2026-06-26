@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "约束文件/Vue3项目约束文件.md",
-                "mode": "source",
-                "source": false
+                "file": "skills/html-to-vue.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Vue3项目约束文件"
+              "title": "html-to-vue"
             }
           }
         ]
@@ -185,8 +185,11 @@
   },
   "active": "cd8c9be35a45424a",
   "lastOpenFiles": [
-    "单例浮层模式组件创建指南.md",
+    "skills/skills目录.md",
+    "skills/html-to-vue.md",
     "约束文件/Vue3项目约束文件.md",
+    "skills",
+    "单例浮层模式组件创建指南.md",
     "约束文件/约束文件目录.md",
     "项目约束文件目录.md",
     "约束文件",
