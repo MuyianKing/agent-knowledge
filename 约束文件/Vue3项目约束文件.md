@@ -90,6 +90,7 @@ basic-template/
 - Props 必须显式声明类型与默认值；事件必须通过 `defineEmits` 声明。
 - 避免在模板中写复杂表达式，超过两层逻辑应抽离为 `computed`。
 - `:style` 中禁止使用对象字面量定义动态样式，必须提取为计算属性。
+- 禁止使用 scss、less 等 CSS 预处理器，统一使用原生 CSS
 - 没有明确的指令不能修改 packages 下的任何文件，也不能创建任何文件
 
 ## 六、Git 与提交规范
