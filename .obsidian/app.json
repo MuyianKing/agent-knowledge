@@ -1,1 +1,9 @@
-{}
+{
+  "promptDelete": false,
+  "defaultViewMode": "preview",
+  "readableLineLength": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "spellcheck": false,
+  "autoPairBrackets": false
+}
