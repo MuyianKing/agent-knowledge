@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skills/html-to-vue.md",
+                "file": "单例浮层模式组件创建指南.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "html-to-vue"
+              "title": "单例浮层模式组件创建指南"
             }
           }
         ]
@@ -185,11 +185,16 @@
   },
   "active": "cd8c9be35a45424a",
   "lastOpenFiles": [
-    "skills/skills目录.md",
+    "projects/basic-template/单例浮层模式组件创建指南.md",
+    "单例浮层模式组件创建指南.md",
+    "skills/anesthesia-system.png",
+    "projects/basic-template/SingletonField-弹框遮挡问题修复.md",
     "skills/html-to-vue.md",
+    "projects/basic-template",
+    "projects",
+    "skills/skills目录.md",
     "约束文件/Vue3项目约束文件.md",
     "skills",
-    "单例浮层模式组件创建指南.md",
     "约束文件/约束文件目录.md",
     "项目约束文件目录.md",
     "约束文件",

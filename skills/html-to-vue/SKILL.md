@@ -1,9 +1,4 @@
 ---
-created: 2026-06-26
-type: skill
----
-
----
 name: "html-to-vue"
 description: "将静态 HTML 页面转换为 Vue 组件化页面。当用户要求把某个 HTML 文件转成 Vue 页面/组件时调用。若用户未指定源 HTML 文件路径或页面主入口 Vue 文件位置，必须先用 AskUserQuestion 询问，不得擅自决定。"
 ---
